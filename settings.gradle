@@ -1,0 +1,5 @@
+rootProject.name = 'amqp-shiftlab-tutorial'
+include 'amqp-shared'
+include 'amqp-consumer'
+include 'amqp-producer'
+
